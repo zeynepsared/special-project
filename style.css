@@ -1,0 +1,705 @@
+body{
+    background-image:url(/resm.png ) ;
+ }
+.logo{
+    float: left;
+    position: absolute;
+    left: 2000px;
+    bottom: -24200px;
+    width: 130px;
+    height: 160px;
+    border-radius: 30px;
+}
+
+.yazı1{
+        float: left;
+        position: absolute;
+        left: 900px;
+        top: 40px;
+        color:white;
+        font-size:70px;
+}
+.yazı2{
+    float: left;
+    position: absolute;
+    left: 1200px;
+    bottom: 40px;
+    color:white;
+    font-size:60px;
+}
+.simge1{
+    background-color: rgb(144, 125, 150);
+    float: left;
+    position: absolute;
+    left: 40px;
+    top: 200px;
+    width: 2250px;
+    height: 800px;
+}
+.resim1{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 1200px; 
+}
+.metin1{
+float: left;
+    position: absolute;
+    left: 700px;
+    top: 1100px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}
+    .resim2{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 2000px; 
+}
+.metin2{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 1950px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}
+.resim3{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 2800px; 
+}
+.metin3{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 2750px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}
+.resim4{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 3500px; 
+}
+.metin4{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 3450px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}
+.resim5{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 4200px; 
+}
+.metin5{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 4200px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}
+.resim6{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 4800px; 
+}
+.metin6{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 4750px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}
+.resim7{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 5400px; 
+}
+.metin7{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 5350px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim8{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 6000px; 
+}
+.metin8{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 5950px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}
+.resim9{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 6650px; 
+}
+.metin9{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 6600px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}
+.resim10{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 7300px; 
+}
+.metin10{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 7250px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim11{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 7900px; 
+}
+.metin11{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 7850px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim12{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 8450px; 
+}
+.metin12{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 8400px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim13{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 9000px; 
+}
+.metin13{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 8950px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim14{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 9600px; 
+}
+.metin14{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 9550px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim15{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top:  10100px; 
+}
+.metin15{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 10050px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+} 
+.resim16{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 10700px; 
+}
+.metin16{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 10650px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+} 
+.resim17{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 11300px; 
+}
+.metin17{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 11250px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+} 
+.resim18{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 11850px; 
+}
+.metin18{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 11800px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+} 
+.resim19{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 12400px; 
+}
+.metin19{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 12350px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+} 
+.resim20{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 12950px; 
+}
+.metin20{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 12920px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+} 
+.resim21{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 13600px; 
+}
+.metin21{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 13550px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+} 
+.resim22{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 14200px; 
+}
+.metin22{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 14150px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim23{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 14800px; 
+}
+.metin23{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 14750px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim24{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 15350px; 
+}
+.metin24{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 15300px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim25{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 15950px; 
+}
+.metin25{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 15900px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim26{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 16500px; 
+}
+.metin26{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 16450px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim27{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 17050px; 
+}
+.metin27{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 17000px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim28{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 17600px; 
+}
+.metin28{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 17550px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim29{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 18150px; 
+}
+.metin29{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 18100px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim30{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 18700px; 
+}
+.metin30{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 18650px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim31{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 19250px; 
+}
+.metin31{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 19180px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim32{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 19800px; 
+}
+.metin32{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 19760px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim33{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 20400px; 
+}
+.metin33{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 20350px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim34{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 20950px; 
+}
+.metin34{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 20900px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim35{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 21500px; 
+}
+.metin35{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 21450px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim36{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 22000px; 
+}
+.metin36{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 21950px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim37{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 22600px; 
+}
+.metin37{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 22550px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim38{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 23200px; 
+}
+.metin38{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 23150px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim39{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 23800px; 
+}
+.metin39{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 23750px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.resim40{
+    width:300px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 24390px; 
+}
+.metin40{
+    float: left;
+    position: absolute;
+    left: 700px;
+    top: 24350px; 
+    color:rgb(0, 0, 0);
+    font-size:30 ;
+}  
+.simge2{
+    background-color: rgb(144, 125, 150);
+    float: left;
+    position: absolute;
+    left: 40px;
+    top: 25000px;
+    width: 2250px;
+    height: 200px;
+    z-index:-1 ;
+}
+.fa-instagram{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 30px;
+    color:rgb(0, 0, 0);
+    font-size:100px;
+    z-index: 0;
+}
+.alt{
+    float: left;
+    position: absolute;
+    left: 600px;
+    top: 24990px;
+    color:rgb(0, 0, 0);
+    font-size:70px;
+}
